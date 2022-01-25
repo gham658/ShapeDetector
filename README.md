@@ -1,5 +1,5 @@
 ## ShapeDetector
-#Reads and labels shapes from an image using OpenCV
+# Reads and labels shapes from an image using OpenCV
 
 This is a python project using OpenCV to detect and label shapes from an image. The stackImages function allows the program to stack images horizontally and vertically to display what is happening each step. 
 
